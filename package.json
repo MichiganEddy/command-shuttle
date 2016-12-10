@@ -1,0 +1,11 @@
+{
+  "name": "run_commands",
+  "version": "0.0.1",
+  "description": "Execute a list of bash commands.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Carlson",
+  "license": "MIT"
+}
